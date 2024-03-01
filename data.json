@@ -1,0 +1,45 @@
+[
+    {
+        "id": "01",
+        "bookname": "The Monk who sold his Ferrari",
+        "author": "Robin Sharma",
+        "cost": 199
+        
+    },
+    {
+        "id": "02",
+        "bookname": "Think and Grow Rich",
+        "author": "Napolean Hill",
+        "cost": 99
+    },
+    {
+        "id": "03",
+        "bookname": "You can Win",
+        "author": "Shiv Khera",
+        "cost": 320
+    },
+    {
+        "id": "04",
+        "bookname": "Digital Fortress",
+        "author": "Dan Brown",
+        "cost": 304
+    },
+    {
+        "id": "05",
+        "bookname": "Who moved my cheese",
+        "author": "Dr Spencer Johnson",
+        "cost": 185
+    },
+    {
+        "id": "06",
+        "bookname": "Morning, noon, night",
+        "author": "Sidney Sheldon",
+        "cost": 355
+    },
+    {
+        "id": "07",
+        "bookname": "Harry Potter series",
+        "author": "J.K. Rowling",
+        "cost": 1999
+    }
+]
